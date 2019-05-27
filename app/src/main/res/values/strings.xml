@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ウォーキング</string>
+    <string name="title_activity_maps">ウォーキング</string>
+    <string name="text_course">コース</string>
+    <string name="text_route">ルート</string>
+    <string name="text_item">アイテム</string>
+    <string name="text_too_far">ポイントが遠すぎます"</string>
+    <string name="text_permission">位置情報の許可が必要です</string>
+</resources>
