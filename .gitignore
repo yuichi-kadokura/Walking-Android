@@ -10,3 +10,7 @@
 /captures
 .externalNativeBuild
 /app/release
+google_maps_api.xml
+/app/src/main/java/com/ahoworld/walking/kml/Constants.kt
+/app/build.gradle
+*.kml
